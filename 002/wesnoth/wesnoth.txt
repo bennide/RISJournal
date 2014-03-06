@@ -13,6 +13,7 @@ Installieren kann man das Spiel ganz leicht, indem man es von http://www.wesnoth
 steht. Darunter sind die verschiedenen Betriebssysteme aufgelistet, wählen Sie das für Sie passende. 
 Danach wird der Ladevorgang gestartet und Sie sehen ein neues Fenster:
 
+{wesnoth_0}
 
 Spieleinstieg:
 
@@ -22,70 +23,60 @@ Jetzt haben Sie also das Spiel Battle for Wesnoth installiert und erfolgreich ge
 {wesnoth_1 Das Hauptmenü}
 
 
-
  Erklärung der einzelnen Menüpunkte:
 
 1)Tipps
-Links unten ist ein Fenster mit bei jedem Spielstart wechselnden Tipps zum Spiel, wie zum Beispiel, dass Untote gegen arkane Angriffe besonders anfällig seien. Hier versteckt sich der "Hilfe" Button.
+Links unten ist ein Fenster mit bei jedem Spielstart wechselnden Tipps zum Spiel, wie zum Beispiel, dass Untote gegen arkane Angriffe besonders anfällig seien. Hier befindet sich auch der "Hilfe" Button.
 
  
 2)Einführung
 Die Einführung ist eine anfängerfreundliche Kampagne (siehe unten), in der das Spiel vorgestellt wird.
+
 {wesnoth_2 Einführungskampagne}
+
  Darin wird jeder Schritt, den man machen muss erklärt und anschließend darf man zur Belohnung ein paar Orks vermöbeln. Es ist sehr ratsam, die Einleitung durchzuspielen, da darin verschiedenste Details der Spielmechianik  erklärt werden.
 
 3)Kampagne
 
-hier kann man eine Kampagne starten. Von Kampagnen gibt es eine große Auswahl, und in allen muss man Wesnoth vor einer anderen Gefahr schützen.
+hier kann man eine Kampagne starten. Es gibt eine große Auswahl von Kampagnen, und in allen muss man Wesnoth vor einer anderen Gefahr schützen.
 {wesnoth_3}
  
- 
- 
- 
- 
- -->
- 
- Wenn ihr jetzt doppelt auf eine Kampagne drückt, deren Beschreibung euch gefällt, wird sie gestartet. Wenn die Kampagne  geladen wurde, kommt eine kleine Einführung in die Geschehnisse, die ihr überspringen könnt. 
+ Klicken Sie jetzt doppelt auf eine beliebige Kampagne um sie zu starten. Wenn die Kampagne  geladen wurde, kommt eine kleine Einführung in die Geschehnisse, die ihr überspringen könnt. 
 
 4)Mehrspieler
 
-Hier könnt ihr Mehrspielerkampagnen starten. Dazu wählt ihr Mehrspieler aus, wählt, ob ihr auf einem offiziellen Server, auf 
-einem ausgewählten Server, in einem lokalen Spiel spielen wollt, oder ob ihr eine eigene Netzwerkverbindung knüpfen wollt.
+Hier können Sie Mehrspielerkampagnen starten. Dazu wählen Sie Mehrspieler aus und wählen anschließend, ob Sie auf einem offiziellen Server, auf einem ausgewählten Server, in einem lokalen Spiel spielen, oder ob Sie eine Netzwerkpartie eröffnen wollen.
 
- Bei den offiziellen Servern kommt ihr in ein Menü, in dem alle derzeit laufenden Server angezeigt sind. Bei den Servern steht 
- rechts die Anzahl der Spieler, die in dem Server sind. Ihr könnt aber nur bei den Servern mit grünen Spielerzahlen einsteigen. 
- Alle anderen sind schon voll! Ihr könnt natürlich auch rechts oben eine eigene Partie eröffnen.
+ Bei den offiziellen Servern kommen Sie in ein Menü, in dem alle derzeit laufenden Server angezeigt sind. Bei den Servern steht  rechts die Anzahl der Spieler, die in dem Server sind. Sie können aber nur bei den Servern mit grünen Spielerzahlen einsteigen, denn alle anderen sind schon voll. Sie können natürlich auch rechts oben eine eigene Partie eröffnen.
 {wesnoth_4}
 
- Unter „Mit einem Server verbinden“ könnt ihr auch auf alternative Server gehen, aber dort gibt es meisten weniger verschiedene 
- Spiele.
+ Unter „Mit einem Server verbinden“ können Sie auch auf alternative Server gehen, aber dort gibt es meisten weniger verschiedene Spiele.
 
- Dann könnt ihr auch eine Netzwerkpartie eröffnen, z.B. für LAN-Parties
+ Dann können Sie auch eine Netzwerkpartie eröffnen, dies ist z.B. für LAN-Parties.
 
 
-Das unterste Menüpunkt im Mehrspielerbildschirm heisst "lokales Spiel", da könnt ihr eine Partie nur mit Freunden am auf einem einzigen Computer spielen.Hotseat Modus 
+Das unterste Menüpunkt im Mehrspielerbildschirm heisst "lokales Spiel", da können Sie eine Partie nur mit Freunden am auf einem einzigen Computer spielen. Das nennt sich Hotseat Modus. 
 
 5)Laden
 
-Hier kann man eine Einzelspielerkampagne, die vorher abgespeichert wurde, weiterspielen.
+Hier können Sie eine Einzelspielerkampagne, die vorher abgespeichert wurde, weiterspielen.
 
 6)Erweiterungen
 
-Hier können verschiedene Erweiterungen, wie neue Kampagnen, Mehrspielerkarten usw. Heruntergeladen werden.
+Hier können Sie verschiedene Erweiterungen, wie neue Kampagnen, Mehrspielerkarten usw. herunterladen.
+
 {wesnoth_5}
 
-Diese sind von begeisterten Battle-for-Wesnoth-Spielern, (Moddern und Mappern) geschrieben worden.
+Diese sind von begeisterten Battle-for-Wesnoth-Spielern, Moddern und Mappern geschrieben worden.
 
 7)Karteneditor
 
-Der Karteneditor ist eine Art Erweiterung für sich, mit ihm könnt ihr eure eigenen Karten zeichnen, in denen ihr dann spielen 
-könnt.
+Der Karteneditor ist eine Art Erweiterung für sich, mit ihm können Sie Ihre eigenen Karten zeichnen, in denen Sie dann spielen können.
 {wesnoth_6}
 
 
 
-Der Karteneditor funktioniert ganz einfach: rechts sind die Landschaften, die man auswählen kann und links oben ist das Menü 
-um zu speichern, neu zu laden und zu löschen. (dieses Menü gibt es übrigens auch bei den Kampagnen)
+Die Steuerung des Karteneditors ist leicht zu erlernen: rechts sind die Landschaften, die man auswählen kann und links oben ist das Menü in dem Sie Ihre Karte speichern, laden und löschen können. (dieses Menü gibt es übrigens auch bei den Kampagnen)
 
 8)Einstellungen
 
@@ -102,19 +93,19 @@ The Battle for Wesnoth – spielen
 
 
 
-Ich habe euch jetzt gezeigt, was es bei The-Battle-for-Wesnoth so alles gibt. Nun zeige ich euch, wie man auf einer Karte spielt. Dafür habe ich im Karteneditor schnell eine Karte zusammengebastelt.
+Sie wissen nun, was es bei The-Battle-for-Wesnoth alles gibt. Nun zeige ich euch, wie man auf einer Karte spielt. Dafür habe ich im Karteneditor schnell eine Karte zusammengebastelt.
 
 
 Öffnen einer Karte oder spielen einer Kampagne:
 
 
-Als erstes brauchen wir eine Karte. Am einfachsten ist es, wenn ihr im Hauptmenü auf Kampagne drückt und dann einfach eine vorgegebene Kampagne spielt.
- Wenn euch das aber zu langweilig ist, könnt ihr eine eigene Karte mit dem Karteneditor zeichnen. Diese könnt ihr dann, nachdem ihr sie gespeichert habt, über diesen Weg aufrufen: Hauptmenü – Mehrspieler – Lokales Spiel – Dann kommt ihr in ein Menü mit einer endlos langen Liste von Karten, davon sollte eure die oberste sein.
+Als erstes müssen Sie sich eine Karte zulegen. Am einfachsten ist es, wenn Sie im Hauptmenü auf Kampagne drückt und dann einfach eine vorgegebene Kampagne spielen.
+ Wenn Ihnen das aber zu langweilig ist, können Sie eine eigene Karte mit dem Karteneditor zeichnen. Diese können Sie dann, nachdem Sie sie gespeichert haben, über diesen Weg aufrufen: Hauptmenü – Mehrspieler – Lokales Spiel – Dann kommen Sie in ein Menü mit einer endlos langen Liste von Karten, davon sollte Ihre die oberste sein.
 
 Spielanfang:
 
-Am Anfang des Spiels kommt bei den Kampagnen eine Einführung und dann ein Gespräch zwischen den verschiedenen Anführern. Das Ganze kann man aber Überspringen, es ist nicht besonders wichtig für das Spiel.
- Beim Karteneditor darf man sich das alles ausdenken, da kommen am Anfang nur die Einstellungen für das Spiel. Diese kann man verändern, oder lassen wie sie sind, das bleibt ganz euch überlassen.
+Am Anfang des Spiels kommt bei den Kampagnen eine Einführung, die für das Spiel nicht sonderlich wichtig ist.
+ Beim Karteneditor dürfen Sie sich das alles ausdenken, da kommen am Anfang nur die Einstellungen für das Spiel. Diese kann man verändern, oder lassen wie sie sind, das bleibt ganz Ihnen überlassen.
 
 Spiel:
 
@@ -124,8 +115,9 @@ Runde 1:
 
 {wesnoth_2.1}
 
-In Runde 1 passiert nie wirklich viel, da man in dieser Runde in den meisten Kampagnen und allen selbstgemachten Spielen noch über keine Einheiten verfügt. Es ist also ratsam als erstes einmal Einheiten auszubilden. Da ich mir eingestellt habe, dass ich sehr viel Geld habe und mir auch eine große Burg gezeichnet habe, habe ich mir, wie auf dem Bild zu erkennen ist, auch einige Einheiten machen können, die aber noch keinen Zug haben.
+In Runde 1 passiert nie sehr viel, da man in dieser Runde in den meisten Kampagnen und allen selbstgemachten Spielen noch über keine Einheiten verfügt. Daher sollten Sie in dieser Runde erst einmal Einheiten ausbilden. Da ich mir eingestellt habe, dass ich sehr viel Geld habe und mir auch eine große Burg gezeichnet habe, habe ich mir, wie auf dem Bild zu erkennen ist, auch einige Einheiten machen können, die aber noch keinen Zug haben.
  Mein Gegner (der Computer) macht das selbe, nur halt mit weniger Platz und Geld. Außerdem nimmt er mit seinem Anführer ein Dorf in seiner Nähe ein, um eine positive Bilanz zu behalten.
+
 {wesnoth_2.2}
 
 Runde 2:
@@ -136,21 +128,21 @@ In Runde zwei mache ich das, was mein Gegner schon in Runde 1 gemacht hat, näml
 
 Runde 3:
 
-Jetzt fangt der Kampf langsam an zu beginnen. Mein Gegner ist mit einer Einheit am Rand des Flusses angekommen, der durch die Mitte der Karte fließt. Damit mein Gegner nicht auf die blöde Idee kommen könnte seine Truppen über den Fluss zu schicken versammle ich möglichst viele Truppen an meiner Seite der Furt (bräunliches Wasser). Ansonsten schicke ich nur meine Einheiten in der Wüste weiter in selbige.
+Jetzt fangt der Kampf langsam an zu beginnen. Mein Gegner ist mit einer Einheit am Rand des Flusses angekommen, der durch die Mitte der Karte fließt. Damit mein Gegner nicht auf die Idee kommen könnte seine Truppen über den Fluss zu schicken versammel ich möglichst viele Truppen an meiner Seite der Furt (bräunliches Wasser). Ansonsten schicke ich nur meine Einheiten in der Wüste weiter in diese.
 
 {wesnoth_2.4}
 
 Runde 4:
 
-Nun kommt der erste Kampf! Ich schicke meinen Wassermannjäger Proa (Einheiten haben auch Namen) in den Kampf mit Orkmeuchler Vorg. Vorg steht im Wasser, wodurch er als Orkmeuchler im Nachteil ist. Wohingegen Wassermenschen im Wasser eine Trefferchance von 60% haben (der beste Wert überhaupt ist 70%). außerdem versammle ich wie mein Gegner noch mehr Truppen am Ufer.
+Nun kommt der erste Kampf! Ich schicke meinen Wassermannjäger Proa (Einheiten haben auch Namen) in den Kampf mit Orkmeuchler Vorg. Vorg steht im Wasser, wodurch er als Orkmeuchler im Nachteil ist. Wohingegen Wassermenschen im Wasser eine Trefferchance von 60% haben (der beste Wert überhaupt ist 70%). außerdem versammel ich wie mein Gegner noch mehr Truppen am Ufer.
 
 {wesnoth_2.5}
 
 Runde 5:
 
-Zwei Runden lang spielen mein Gegner und ich jetzt schon Kalter Krieg an unseren jeweiligen Flussufern. Nachdem der Computer zwei schnelle Einheiten ausgeschickt hat um die weiter entfernten Dörfer einzunehmen, greife ich an.
+Nachdem der Computer zwei schnelle Einheiten ausgeschickt hat um die weiter entfernten Dörfer einzunehmen, greife ich seine am Ufer versammelten Truppen an.
  Ich habe schon eine ziemliche Armee an meinem Flussufer versammelt und mein Gegner konnte es sich nicht leisten mehr als  vier Einheiten aufzustellen.
- Ich attackiere den Orkschützen im Nahkampf, da er im Fernkampf viel stärker ist. Außerdem lasse ich meinen Wassermenschen weiterhin sich mit Vorg duellieren.
+ Ich attackiere den Orkschützen im Nahkampf, da er im Fernkampf viel zu stark ist. Außerdem lasse ich meinen Wassermenschen weiterhin sich mit Vorg duellieren.
 
 {wesnoth_2.6}
 
@@ -158,7 +150,7 @@ Runde 6:
 
 {wesnoth_2.7}
 
-Der Computer umzingelt einen meiner Elfenkämpfer zur Hälfte und vergiftet ihn mit seinen Orkmeuchlern. Auch Vorg wird aus dem Wasser abgezogen und greift mit den Anderen seiner Art meine Einheit an. Doch durch meine Überzahl kann ich die Gegner auch schwer verletzen.
+Der Computer umzingelt einen meiner Elfenkämpfer zur Hälfte und vergiftet ihn mit seinen Orkmeuchlern. Auch Vorg wird aus dem Wasser abgezogen und greift mit den Anderen seiner Art meine Einheit an. Doch durch meine Überzahl kann auch ich meine Gegner auch schwer verletzen.
 
 Runde 7:
 
@@ -171,7 +163,7 @@ Runde 8:
 
 {wesnoth_2.9}
 
-Da alle feindlichen Einheiten am Fluss nun besiegt sind ziehe ich mit meinen Truppen weiter zum Lager des Computers. Als Gegner habe ich nur noch den Anführer der Orks und die zwei schnellen Einheiten, die er zu den weiter entfernten Dörfern geschickt hat.
+Da alle feindlichen Einheiten am Fluss nun besiegt sind ziehe ich mit meinen Truppen weiter zum Lager des Computers. Als Gegner habe ich nur noch den Anführer der Orks und die zwei schnellen Einheiten, die er zu den weiter entfernten Dörfern geschickt hat. Die schnellen Einheite stellen aber keine Gefahr dar, da sie sehr schwach sind.
  Da ich aber noch viel Geld habe bilde ich zur Sicherheit noch eine kleine Armee aus.
 
 Runde 9 und 10:
@@ -185,8 +177,8 @@ In Runde 9 kämpfe ich nur noch halbherzig gegen die schnellen feindlichen Einhe
 
 Anmerkungen:
 
-Ich habe dieses Spiel darauf ausgerichtet, das ich Gewinne, normalerweise sind die Karten schwieriger zu spielen. Außerdem habe ich auch ein paar Fehler gemacht, zum Beispiel hätte ich nicht zulassen können, dass eine meiner Einheiten zur Hälfte umzingelt wird, indem ich eine ungefähre Sechseckformation in Richtung der feindlichen Einheiten gemacht hätte.
- Wenn ihr euch eine eigene Karte macht würde ich euch raten sie etwas schwieriger zu machen, da das Spiel sonst zu langweilig wird.
+Ich habe dieses Spiel darauf ausgerichtet, das ich Gewinne, normalerweise sind die Karten schwieriger zu spielen. Außerdem habe ich auch ein paar Fehler gemacht, zum Beispiel hätte ich verhindern können, dass eine meiner Einheiten zur Hälfte umzingelt wird, indem ich eine ungefähre Sechseckformation in Richtung der feindlichen Einheiten gebildet hätte.
+ Wenn Sie sich eine eigene Karte macht würde ich Ihnen raten sie etwas schwieriger zu machen, da das Spiel sonst zu langweilig wird.
 
 
 
