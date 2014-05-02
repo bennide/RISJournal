@@ -1,3 +1,5 @@
+Sie finden diese Anleitung auch im OSDOmotics-Wiki: http://wiki.osdomotics.com/doku.php/de:projekte:tuerueberwachung
+
 Internet der Dinge:
 
 Sie bauchen:
