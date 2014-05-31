@@ -14,6 +14,12 @@ license of translation into german: cc-by-sa
 Author note: link to original, note that it is translated, send e-copy and print-copy
 
 
+
+
+Über den Autor:
+
+Drew Crawford arbeitet als Programmierer, Autor und Consulant in Austin, Texas. Er ist Inhaber von DrewCrawfordApps, einer Entwickler-Firma  mit Fokus auf innovative iPhone, iPad und Server-Sofware-Lösungen für Firmen jeder Größe. Drew's Arbeiten wurden u.a. in TechCrunch und Daring Fireball rezensiert und seine Artikel und wurden von mehreren Branchengrößen gelobt. Er ist Autor des bekannten "Why Mobile Web Apps are Slow" Artikel.
+
 Unberechtigte Kritik an Python3 
 
 In letzter Zeit gab es einen Chor von Anti-Pyhton3 Artikeln, z.B. "Python3 is killing Python" https://medium.com/@deliciousrobots/5d2ad703365d/ . Der Artikel ist insoweit richtig als er akkurat die Gefühle seines Autors beschreibt, aber der Artikel ist fundamental falsch was die Sprache Python3, deren Entwickler und die Python3 Community betrifft.
@@ -26,7 +32,7 @@ been considered so far.
 Der Elefant im Raum (hidden in plain sight)
 
 Zuerst ein wenig Hintergrundwissen. Das Python Projekt ist ein free/libre open source 
-Gemeinschaftsprojekt welches von einem Team aus lauter unbezahlten Freiwillgen gemanget wird. Python's Erfinder, "Benevolent Dictator For Life" Guido von Rossum, ist NICHT ein Vollzeitangestellter Python Entwickler. Er verbringt einen guten Teil seiner Zeit mit Arbeit für die Firma Dropbox. Theoretisch könnte die Python Software Foundation (PSF) Leute dafür bezahlen Python weiterzuentwickeln aber in der Realität ist das jährliche Budget der PSF kleiner als der Jahresverdienst eines einzigen mäßig bezahlten Programmierers.
+Gemeinschaftsprojekt welches von einem Team aus lauter unbezahlten Freiwillgen gemanget wird. Python's Erfinder, "Benevolent Dictator For Life" Guido von Rossum, ist NICHT ein Vollzeitangestellter Python Entwickler. Er verbringt einen guten Teil seiner Zeit mit ]Arbeit für die Firma Dropbox  https://www.dropbox.com/developers/blog/48/how-the-datastore-api-handles-conflicts-part-1-basics-of-offline-conflict-handling . Theoretisch könnte die Python Software Foundation (PSF) Leute dafür bezahlen Python weiterzuentwickeln aber in der Realität ist das jährliche Budget der PSF kleiner als der Jahresverdienst eines einzigen mäßig bezahlten Programmierers http://pyfound.blogspot.com/2012/01/psf-grants-over-37000-to-python.html .
 
 Das bedeutet das wirklich der der für Python arbetet dies aus Spaß macht, auf eigene Kosten. Python hat keine Kunden, und keine Verkäufer. Alles was es gibt sind ein paar Leute die an Python herumbasteln und die Sprache weiterentwickeln weil ihnen das Freude macht.
 
@@ -49,14 +55,14 @@ Python2 Fans behaupten Bemerkenswertes, zum Beispiel:
 
 "Eine der großen Stärken von Python2 ist die große Zahl 3rd party libraries mit denen man ,nunja, alles Mögliche machen kann. Python3 hat das nicht."
 
-Es ist Zeit für dieses Argument zu sterben. Von den top 200 3rd party libraries unterstützen mittlerweile 80% Python3 (May 2014). Von den restlichen 20% sind  viele Dinge wie supervisor oder Fabric welche "stand-alone applications" sind wo sich niemand darum schert mit welcher Python Version sie laufen. Zu behaupten ""Python3 hat keine 3rd party librariies" ist nicht nur falsch, es ist absurd.
+Es ist Zeit für dieses Argument zu sterben. Von den top 200 3rd party libraries unterstützen mittlerweile 80% Python3 http://python3wos.appspot.com/ (May 2014). Von den restlichen 20% sind  viele Dinge wie supervisor oder Fabric welche "stand-alone applications" sind wo sich niemand darum schert mit welcher Python Version sie laufen. Zu behaupten ""Python3 hat keine 3rd party librariies" ist nicht nur falsch, es ist absurd.
 
 
 Zur Behauptung dass "niemand Python3 produktiv verwendet":
 
 "...Python3 zu vewenden ist offensichtlich nicht populär, denn wenn es populär wäre hätten wir jede Menge Python3 apps in Produktion und viele der Python2 libs würden auf Python3 geportet. Nichts davon passiert."
 
-Das ist genauso absurd. Im März 2014 z.B. waren die Python3 downloads 50% höher als die Python2 Downloads. Was machen all die Leute mit Python3, wenn nicht damit Software schreiben ? (Linux-Distributionen): Ubuntu hat Python2 verbannt, Fedora wird es nächstes Jahr tun. Arch tut es schon seit 2010 (man kann argumentieren dass 2010 etwas früh war, aber die Arch Leute sind gerne up to date). Zu sagen dass wir nicht viele Python3 apps in Produktion haben ist nicht nur falsch, es ist total absurd.
+Das ist genauso absurd. Im März 2014 z.B. waren die Python3 downloads im Verhältnis 54% vs. 46% http://python-notes.curiousefficiency.org/en/latest/python3/questions_and_answers.html höher als die Python2 Downloads. Was machen all die Leute mit Python3, wenn nicht damit Software schreiben ? (Linux-Distributionen): Ubuntu hat Python2 verbannt https://wiki.ubuntu.com/Python/FoundationsTPythonVersions , Fedora wird es nächstes Jahr tun http://fedoraproject.org/wiki/Changes/Python_3_as_Default . Arch tut es schon seit 2010 https://www.archlinux.org/news/python-is-now-python-3/ (man kann argumentieren dass 2010 etwas früh war, aber die Arch Leute sind gerne up to date). Zu sagen dass wir nicht viele Python3 apps in Produktion haben ist nicht nur falsch, es ist total absurd.
 
 Just use it then
 
@@ -67,7 +73,7 @@ Ist meine Erfahrung representativ? Selbstverständlich nicht. Aber als Einzelper
 Wenn Python2 so großartig ist: Verwende eben Python2! Geh auf die Python.org website und klicke auf den Download-Button. Das ist keine Sache die eine Diskussion benötit. Man braucht dafür keine Erlaubnis. Man muss nicht das Land der glücklichen Python3 User erobern und sie überzeugen wieder Python2 zu benutzen. Bleib bei Python2!
 
 Wenn Python2-Beschwörer Artikel schreiben ist das sehr erhellend: 
-Wenn Python2 so großartig wäre wie sie behaupten dann gäbe es keinerlei Grund ein Entwicklerteam dazu zu bewegen an Python2 zu arbeiten, da Python2 schon perfekt ist. Um Arbeit an Python2 zu rechtfertigen muss man zugeben dass etwas an Python2 unbefriedigend ist. Und zwar so unbefriedigend dass es rechtfertigen würde das ganze Ökosystem von zufriedenen Python3 Entwicklern und Usern kaputt zu machen, die Python3 Entwickler zu kidnappen und gegen ihren Willen zu zwingen an Python2 weiterzuarbeiten.
+Wenn Python2 so großartig wäre wie sie behaupten dann gäbe es keinerlei Grund ein Entwicklerteam dazu zu bewegen an Python2 zu arbeiten, da Python2 schon perfekt ist. Um Arbeit an Python2 zu rechtfertigen muss man zugeben dass etwas an Python2 unbefriedigend ist. Und zwar so unbefriedigend dass es rechtfertigen würde das ganze Ökosystem von zufriedenen Python3 Entwicklern und Usern kaputt zu machen, die Python3 Entwickler zu kidnappen und gegen ihren Willen http://legacy.python.org/dev/peps/pep-0404/ zu zwingen an Python2 weiterzuarbeiten.
 
 
 Just fork it then
@@ -78,9 +84,9 @@ Python3 kritische Artikel wie der von Alex schlagen oft einen "Fork" vor:
 
 Vielleicht hat Alex ihn übersehen, aber es gibt diesen "Fork" Button bereits:
 
-Man braucht keine Erlaubnis zum Forken. Man braucht über das Forken nicht mit irgendwem zu diskutieren. Einfach auf den Knopf klicken! Es ist nicht soooo schwierig. Ich selbst bin nur ein einzelner Typ im Internet, und ich maintaine eine recht ansehliche Nummer von Forks verschiedenster FOSS (Free/libre/open-source-software) Projekte. Ich forke mehrmals pro Woche.
+Man braucht keine Erlaubnis zum Forken. Man braucht über das Forken nicht mit irgendwem zu diskutieren. Einfach auf den Knopf klicken! Es ist nicht soooo schwierig. Ich selbst bin nur ein einzelner Typ im Internet, und ich maintaine eine recht ansehliche Nummer von Forks verschiedenster FOSS (Free/libre/open-source-software) Projekte http://sealedabstract.com/rants/conduct-unbecoming-of-a-hacker/ . Ich forke mehrmals pro Woche.
 
-Es ist nicht einmal so besonders schwierig einige wesentliche Python3 Features in Python2 einzubauen (backport). Manchmal wird das sogar gemacht, wie von Trollius und six. Die Tatsache dass sich bis jetzt niemand ide 10 Minuten Zeit genommen hat die nötig wären um Trollius in einen Python2.8 Fork hineinzuarbeiten (to merge) ist ein klarer Beweis dafür dass sich niemand für Python2.8 interessiert.
+Es ist nicht einmal so besonders schwierig einige wesentliche Python3 Features in Python2 einzubauen (backport). Manchmal wird das sogar gemacht, wie von Trollius http://trollius.readthedocs.org/ und Six https://pypi.python.org/pypi/six. Die Tatsache dass sich bis jetzt niemand ide 10 Minuten Zeit genommen hat die nötig wären um Trollius in einen Python2.8 Fork hineinzuarbeiten (to merge) ist ein klarer Beweis dafür dass sich niemand für Python2.8 interessiert.
 
 Blog postings sind keine Nachfrage. Nachfrage bedeutet Leute die willig sind zu programmieren. Nachfrage bedeutet Leute die willig sind Programmier zu bezahlen. Ich wäre sogar zufrieden mit einer 15 Dollar themforest splash page die eine Firma und einen Programmier mit Lebenslauf auflistet. Wie kann es sein dass Python "in großer Gefahr ist geforkt zu werden" und niemand macht sich die Mühe wenigsten einen domain namen für den Fork zu reservieren? Es gibt Leute die kaufen Domainnamen für ein Wochenend-hacking-Projekt. Die ganze Debatte ist ein Sturm im Wasserglas.
 
@@ -93,13 +99,13 @@ Doch da ist noch ein viel simplerer Grund warum Alex falsch liegt. Ich presentie
 
 (im Original-Blog-Posting eine 12 seitige Liste von Änderungen, 4-spaltig, extrem kleine Schriftart, (192 Seiten ausgedruckt) zusammen mit nerviger Musik beim Scrollen )
 
-Also wenn diese ausgedruckt 192 _Seiten lange Liste der Änderungen "nothing really amazing" ist und man davon nicht beeindruckt ist dann ist dies das Vorrecht des Kritikers. Vielleicht ist er nicht leicht zu beeindrucken. Ich behaupte dass eine durchschnittliche Person darin etwas "amazing" findet.
+Also wenn diese ausgedruckt 192 Seiten lange Liste der Änderungen (Changelog) http://sealedabstract.com/wp-content/uploads/2014/05/python_changes.pdf  "nothing really amazing" ist und man davon nicht beeindruckt ist dann ist dies das Vorrecht des Kritikers. Vielleicht ist er nicht leicht zu beeindrucken. Ich behaupte dass eine durchschnittliche Person darin etwas "amazing" findet.
 
-Nickous Ventoura's Zurückweisung von Alex's posting inkludiert Vorschläge wie "behebe alte Widrigkeiten", "Verbessere die Geschwindigkeit", "erneuere die API". Ich garantiere, im besagten 192-seitigen Changelog Dokument finden sich seitenweise Änderungen genau dieser Sorte. Python3 braucht wirklich nicht neue Features - Es braucht bessere Öffentlichkeitsarbeit. Die Features sind schon da, die Leute wissen nur nichts davon.
+Nickous Ventoura's Zurückweisung https://medium.com/p/2a7af4788b10 von Alex's posting inkludiert Vorschläge wie "behebe alte Widrigkeiten", "Verbessere die Geschwindigkeit", "erneuere die API". Ich garantiere, im besagten 192-seitigen Changelog Dokument finden sich seitenweise Änderungen genau dieser Sorte. Python3 braucht wirklich nicht neue Features - Es braucht bessere Öffentlichkeitsarbeit. Die Features sind schon da, die Leute wissen nur nichts davon.
 
 Es ist die Falschaussage des Jahrzehnts diese Änderungen "nicht viel" zu nennen. Es ist viel. Der Ausdruck allein wiegt fast ein Kilo (2 Pfund). Ich fordere jeden heraus ein anderes Projekt zu finden dessen Release Notes in Pfunden messbar sind. Ich brauchte mehrere Versuche um überhaupt eine vergleichbares Projekt zu finden - Rails.
 
-Rails ist übrigens ebensowenig rückwärts-kompatibel wie Python3. Ich weiß nicht viel über Rails, Aber es existiert eine Liste von Kompabilitätsbrüchen zwischen Rails 4.0 und der kleinen Release 4.1. Oho! Und sie weigern sich semver zu benutzen. Und die Rails Leute akzeptieren das. Rails Leute legen sogar Geld zusammen um kommerzielle Forks von Rails zu machen. Soweit ich es verstehe befindet sich das Rails Projekt in keinerlei Krise obwohl sie Rückwärtskompabilität wöchentlich brechen. 
+Rails ist übrigens ebensowenig rückwärts-kompatibel wie Python3. Ich weiß nicht viel über Rails, aber es existiert eine Liste http://edgeguides.rubyonrails.org/upgrading_ruby_on_rails.html#upgrading-from-rails-4.0-to-rails-4.1  von Kompabilitätsbrüchen zwischen Rails 4.0 und der kleinen Release 4.1. Oho! Und sie weigern sich semver zu benutzen https://github.com/rails/rails/issues/9979 . Und die Rails Leute akzeptieren das. Rails Leute legen sogar Geld zusammen https://railslts.com/ um kommerzielle Forks von Rails zu machen. Soweit ich es verstehe befindet sich das Rails Projekt in keinerlei Krise obwohl sie Rückwärtskompabilität wöchentlich brechen. 
 
 Im Vergleich damit ist Python ein Hort der Stabilität. Python3 existiert seit 5 Jahren. Wer es in fünf Jahren nicht zusammenbringt einen Finger zu bewegen um seinen Code anzupassen hat ein Motivationsproblem. Er kann auf jeden Fall nicht erwarten dass irgendjemand sonst, schon gar nicht eine Gruppe unbezahlter Freiwilliger, alles liegen und stehen lässt woran sie arbeiten um das Leben für einen solchen Faulpelz zu vereinfachen.
 
@@ -110,13 +116,14 @@ So what are you going to do about it?
 
 Leute die Python2 heute bentutzen haben eine Reihe von Möglichkeiten offen:
 
-* Upgraden auf Python3.
-* Nichts tun. Weiterhin Python2 benutzen.
-* Ruby ausprobieren (wer Python wegen fehlender bwackwards compatibility verlässt...wird bald zurück kommen)
-* Eine RHEL Lizenz kaufen weil RedHat als Firma verpflichtet ist Python fast ewig ("long ass time") zu unterstützen.
-* ActivePython kaufen, die Python2.x so lange unterstützen werden solange es Käufer dafür gibt.
-* PyPy oder Pyston ausprobieren
-* Python2 forken
+1. Upgraden auf Python3.
+2. Nichts tun. Weiterhin Python2 benutzen.
+3. Ruby ausprobieren (wer Python wegen fehlender bwackwards compatibility verlässt...wird bald zurück kommen)
+4. Verwende Go oder eine andere Programmiersprache mit guter backwards compatibility Politik.
+5. Eine RHEL Lizenz kaufen weil RedHat als Firma verpflichtet ist Python fast ewig ("long ass time") zu unterstützen.
+6. ActivePython kaufen, die Python2.x so lange unterstützen werden solange es Käufer dafür gibt.
+7. PyPy oder Pyston ausprobieren
+8. Python2 forken
  
 All diese Möglichkeiten steht Leuten offen für den Übergang von Python2 zu Python3. Eine Möglichkeit vielleicht nichts bringt ist sich im Internet beschweren dass andere Leute nicht für einen arbeiten.
 
@@ -130,4 +137,5 @@ Derzeit kann noch nicht jeder Python2 komplett vergessen. Aber nicht jeder muss 
 
 Was mich glücklich macht ist Python3 zu verwenden. 
 
-Like this post? Contribute to the coffee fund so I can write more like it.
+Bitcoin-Adresse des Autors: 1GyPKBt3Tpgqzc8Nbd8tmvRQUQpJPZH41Y .
+
