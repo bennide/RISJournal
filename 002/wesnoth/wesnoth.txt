@@ -1,45 +1,41 @@
 Battle for Wesnoth  – Ein Free-to-play
 Computerspiel
 
-von Benjamin Dechant
+von Benjamin D.
 
-Battle for Wesnoth ist ein frei lizenziertes, runden-basierendes Computerspiel, in dem Sie das fiktive Land
-Wesnoth vor diversen Gefahren schützen müssen. 
+Battle for Wesnoth ist ein frei lizenziertes, runden-basierendes Computer-Fantasy-Strategiespiel, in dem Sie das fiktive Land Wesnoth vor diversen Gefahren schützen müssen. 
 
 Installierung:
 
-Installieren können Sie das Spiel ganz leicht, indem Sie es von http://www.wesnoth.org/ per „Download Wesnoth (Versions-
-nummer)“ herunterladen. Dann folgen Sie den Anweisungen. 
-Danach wird der Ladevorgang gestartet und Sie sehen ein neues Fenster:
+Installieren können Sie das Spiel ganz leicht, indem Sie es von http://www.wesnoth.org/ per „Download Wesnoth (Versionsnummer)“ herunterladen. Dann folgen Sie den Installationsanweisungen auf der Wesnoth-Homepage. Danach sehen Sie ein neues Fenster:
 {wesnoth_0}
 
 Spieleinstieg:
 
-Wenn Sie nun das spiel starten, erscheint auf ihrem Bildschirm das Hauptmenü:
+Wenn Sie nun das Spiel starten, erscheint auf ihrem Bildschirm das Hauptmenü:
 {benni_wesnoth1.png}
+
+Tipps zum Spiel:
+Links unten erscheint bei Spielstart ein Fenster mit bei jedem Spielstart wechselnden Tipps. Zum Beispiel erfährt man dort, dass Untote gegen arkane Angriffe besonders anfällig sind. Hier finden Sie auch den "Hilfe" Button.
+{benni_wesnoth3.png}
+
+Hauptmenü
 
 Die einzelnen Menüpunkte:
 
-1)Tipps
-Links unten ist ein Fenster mit bei jedem Spielstart wechselnden Tipps zum Spiel, wie zum Beispiel, dass Untote gegen 
-arkane Angriffe besonders anfällig seien. Hier finden Sie auch den "Hilfe" Button.
-{benni_wesnoth3.png}
- 
-2)Einführung
+
+*)Einführung
 Die Einführung ist eine anfängerfreundliche Kampagne (siehe unten), in der das Spiel vorgestellt wird.
 {wesnoth_2 Einführungskampagne}
 
- Darin wird jeder Schritt, den Sie während des Spiels brauchen werden erklärt und anschließend dürfen Sie zur Belohnung 
- ein paar Orks vermöbeln. Es ist sehr ratsam, die Einleitung durchzuspielen, da darin verschiedenste Details der 
- Spielmechianik  erklärt werden, die hier nicht alle angeführt  werden.
+ Darin wird jeder Schritt, den Sie während des Spiels brauchen werden erklärt und anschließend dürfen Sie zur Belohnung ein paar Orks vermöbeln. Es ist sehr ratsam, die Einführung durchzuspielen, da darin verschiedenste Details der Spielmechanik erklärt werden, die hier nicht alle angeführt werden.
 
-3)Kampagne
+*)Kampagne
 
-hier können Sie eine Kampagne starten. Es gibt eine große Auswahl von Kampagnen, und in allen müssen Sie Wesnoth vor einer 
-anderen Gefahr schützen.
+hier können Sie eine Kampagne starten. Es gibt eine große Auswahl von Kampagnen, und in allen müssen Sie Wesnoth vor einer anderen Gefahr schützen.
 {benni_wesnoth4.png}
  
- Um eine Kampagne zu starten klicken Sie hier doppelt auf die Kampagne, die Sie spielen wollen
+ Um eine Kampagne zu starten klicken Sie hier doppelt auf die Kampagne, die Sie spielen wollen.
 
 4)Mehrspieler
 
@@ -47,9 +43,9 @@ Hier können Sie Mehrspielerkampagnen starten. Dazu wählen Sie, ob Sie auf eine
 offiziellen Server, auf einem ausgewählten Server, in einem lokalen Spiel spielen, oder ob Sie eine Netzwerkpartie 
 eröffnen wollen.
 
- Bei den offiziellen Servern kommen Sie in ein Menü, in dem alle derzeit laufenden Server angezeigt sind. Bei den Servern 
-steht  rechts die Anzahl der Spieler, die in dem Server sind. Sie können aber nur bei den Servern mit grünen Spielerzahlen 
-einsteigen, denn alle anderen sind schon voll. Sie können auch eine eigene Partie eröffnen.
+ Bei den offiziellen Servern kommen Sie in ein Menü, in dem alle derzeit laufenden Spiel-Server angezeigt sind. Bei den Servern 
+steht  rechts die Anzahl der Spieler, die in dem Server sind. Sie können aber nur bei nicht-vollen Servern (grün)  
+einsteigen. Sie können auch eine eigene Partie eröffnen.
 {wesnoth_4 Das Servermenü}
 
  Unter „Mit einem Server verbinden“ können Sie auch auf alternative Server gehen, aber dort gibt es meisten weniger 
@@ -59,7 +55,7 @@ verschiedene Spiele.
 
 
  Der unterste Menüpunkt im Mehrspielerbildschirm heißt "lokales Spiel", hier können Sie eine Partie nur mit Freunden am 
-auf einem einzigen Computer spielen. Das nennt sich Hotseat Modus. Hier können Sie auch selbst gemachte Karten (siehe Karteneditor) spielen.
+auf einem einzigen Computer spielen (Hotseat Modus). Hier können Sie auch selbst gemachte Karten (siehe Karteneditor) spielen.
 
 5)Laden
 
@@ -71,7 +67,7 @@ Hier können Sie verschiedene Erweiterungen, wie neue Kampagnen, Mehrspielerkart
 
 {wesnoth_5}
 
-Diese sind von begeisterten Battle-for-Wesnoth-Spielern, die auch noch Modder und Mapper sind, geschrieben worden.
+Diese sind von  Battle-for-Wesnoth-Moddern und -Mappern geschrieben worden.
 
 7)Karteneditor
 
@@ -86,8 +82,7 @@ Kampagnen)
 
 8)Einstellungen
 
-Die zwei Punkte darunter sind die Spracheinstellungen, in denen man  die Sprache ändern kann, und die Einstellungen, 
-in denen man zum Beispiel die Grafikoptionen ändern kann.
+Die zwei Punkte darunter sind die Spracheinstellungen und die Einstellungen, in denen Sie Sprach - und sonstige Einstellungen verändern können.
 
 
 
@@ -107,7 +102,7 @@ Dafür habe ich im Karteneditor schnell eine kleine Karte zusammengebastelt.
 Öffnen einer Karte oder spielen einer Kampagne:
 
 
-Als erstes müssen Sie sich eine Karte zulegen. Am einfachsten ist es, wenn Sie im Hauptmenü auf Kampagne drücken und dann 
+Am wichtigsten ist die Karte. Am einfachsten ist es, wenn Sie im Hauptmenü auf Kampagne drücken und dann 
 einfach eine vorgegebene Kampagne spielen.
  Wenn Ihnen das aber zu langweilig ist, können Sie eine eigene Karte mit dem Karteneditor zeichnen. Diese können Sie dann, 
 nachdem Sie sie gespeichert haben, über diesen Weg aufrufen: Hauptmenü – Mehrspieler – Lokales Spiel – Dann kommen Sie 
@@ -210,8 +205,8 @@ gewonnen.
 
 Anmerkungen:
 
-Ich habe dieses Spiel darauf ausgerichtet, das ich Gewinne, normalerweise sollten die Karten schwieriger zu spielen sein. 
+Ich habe dieses Spiel darauf ausgerichtet, das ich gewinne, normalerweise sollten die Karten schwieriger zu spielen sein. 
 Außerdem habe ich auch ein paar Fehler gemacht, zum Beispiel hätte ich verhindern können, dass eine meiner Einheiten zur 
 Hälfte umzingelt wird, indem ich eine ungefähre Sechseckformation in Richtung der feindlichen Einheiten gebildet hätte.
- Wenn Sie sich eine eigene Karte macht würde ich Ihnen raten sie etwas schwieriger zu machen, da das Spiel sonst zu 
- langweilig wird.
+Wenn Sie sich eine eigene Karte macht würde ich Ihnen raten sie etwas schwieriger zu machen, da das Spiel sonst zu 
+langweilig wird.
