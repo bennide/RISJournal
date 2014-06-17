@@ -9,22 +9,21 @@ Wesnoth vor diversen Gefahren schützen müssen.
 Installierung:
 
 Installieren können Sie das Spiel ganz leicht, indem Sie es von http://www.wesnoth.org/ per „Download Wesnoth (Versions-
-nummer)“ hinunterladen. Darunter sind die verschiedenen Betriebssysteme aufgelistet, wählen Sie das für Sie passende. 
+nummer)“ herunterladen. Dann folgen Sie den Anweisungen. 
 Danach wird der Ladevorgang gestartet und Sie sehen ein neues Fenster:
 {wesnoth_0}
 
 Spieleinstieg:
 
-Jetzt haben Sie also das Spiel Battle for Wesnoth installiert und erfolgreich gestartet:
-{wesnoth_1 Das Hauptmenü}
-
+Wenn Sie nun das spiel starten, erscheint auf ihrem Bildschirm das Hauptmenü:
+{benni_wesnoth1.png}
 
 Die einzelnen Menüpunkte:
 
 1)Tipps
 Links unten ist ein Fenster mit bei jedem Spielstart wechselnden Tipps zum Spiel, wie zum Beispiel, dass Untote gegen 
 arkane Angriffe besonders anfällig seien. Hier finden Sie auch den "Hilfe" Button.
-
+{benni_wesnoth3.png}
  
 2)Einführung
 Die Einführung ist eine anfängerfreundliche Kampagne (siehe unten), in der das Spiel vorgestellt wird.
@@ -38,31 +37,29 @@ Die Einführung ist eine anfängerfreundliche Kampagne (siehe unten), in der das
 
 hier können Sie eine Kampagne starten. Es gibt eine große Auswahl von Kampagnen, und in allen müssen Sie Wesnoth vor einer 
 anderen Gefahr schützen.
-{wesnoth_3 Das Kampagnenmenü}
+{benni_wesnoth4.png}
  
- Klicken Sie jetzt doppelt auf eine beliebige Kampagne um sie zu starten. Wenn die Kampagne  geladen wurde, kommt eine 
- kleine Einführung in die Geschehnisse, die Sie überspringen können. 
+ Um eine Kampagne zu starten klicken Sie hier doppelt auf die Kampagne, die Sie spielen wollen
 
 4)Mehrspieler
 
-Hier können Sie Mehrspielerkampagnen starten. Dazu wählen Sie "Mehrspieler" aus und wählen anschließend, ob Sie auf einem 
+Hier können Sie Mehrspielerkampagnen starten. Dazu wählen Sie, ob Sie auf einem 
 offiziellen Server, auf einem ausgewählten Server, in einem lokalen Spiel spielen, oder ob Sie eine Netzwerkpartie 
 eröffnen wollen.
 
  Bei den offiziellen Servern kommen Sie in ein Menü, in dem alle derzeit laufenden Server angezeigt sind. Bei den Servern 
 steht  rechts die Anzahl der Spieler, die in dem Server sind. Sie können aber nur bei den Servern mit grünen Spielerzahlen 
-einsteigen, denn alle anderen sind schon voll. Sie können natürlich auch rechts oben eine eigene Partie eröffnen.
+einsteigen, denn alle anderen sind schon voll. Sie können auch eine eigene Partie eröffnen.
 {wesnoth_4 Das Servermenü}
 
  Unter „Mit einem Server verbinden“ können Sie auch auf alternative Server gehen, aber dort gibt es meisten weniger 
- verschiedene Spiele.
+verschiedene Spiele.
 
- Sie können auch eine Netzwerkpartie eröffnen, dies ist z.B. für LAN-Parties.
+ Sie können auch eine Netzwerkpartie eröffnen, z.B. für LAN-Parties.
 
 
- Der unterste Menüpunkt im Mehrspielerbildschirm heisst "lokales Spiel", hier können Sie eine Partie nur mit Freunden am 
-auf einem einzigen Computer spielen. Das nennt sich Hotseat Modus. Für ein lokales Spiel werden die im Karteneditor (siehe
-unten) gezeichneten Karten benutzt.
+ Der unterste Menüpunkt im Mehrspielerbildschirm heißt "lokales Spiel", hier können Sie eine Partie nur mit Freunden am 
+auf einem einzigen Computer spielen. Das nennt sich Hotseat Modus. Hier können Sie auch selbst gemachte Karten (siehe Karteneditor) spielen.
 
 5)Laden
 
@@ -80,7 +77,7 @@ Diese sind von begeisterten Battle-for-Wesnoth-Spielern, die auch noch Modder un
 
 Der Karteneditor ist eine Art Erweiterung für sich, mit ihm können Sie Ihre eigenen Karten zeichnen, auf denen Sie dann 
 spielen können.
-{wesnoth_6}
+{benni_wesnoth5.png}
 
 
 Die Steuerung des Karteneditors ist leicht zu erlernen: rechts sind die Landschaften, die man auswählen kann und links 
